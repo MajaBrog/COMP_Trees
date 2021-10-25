@@ -15,6 +15,7 @@ public class TreesTestSuite {
         Assert.assertEquals("Green long needles", coniferousTree.getLeafs());
     }
 
+
     @Test
     public void testFactoryLeafyTree() {
         //Given
